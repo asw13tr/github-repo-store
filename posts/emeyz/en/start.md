@@ -1,1 +1,1 @@
-post, emeyz ve en klasörü içindeki start.md dosyasıdır
+<p><strong>post</strong>, <strong>emeyz </strong>ve <strong>en </strong>klasörü içindeki <strong><s>start.md</s></strong> dosyasıdır </p><p>Bu bir denemedir ve update yapılr</p>
