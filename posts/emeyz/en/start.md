@@ -1,1 +1,1 @@
-<p><strong>post</strong>, <strong>emeyz </strong>ve <strong>en </strong>klasörü içindeki <strong><s>start.md</s></strong> dosyasıdır</p><p>Bu bir denemedir ve u<strong>pdate yapılr</strong></p>
+<p><strong>post</strong>, <strong>emeyz </strong>ve <strong>en </strong>klasörü içindeki <strong><s>start.md</s></strong> dosyasıdır</p><p>Bu bir denemedir ve u<strong>pdate yapılr </strong></p>
